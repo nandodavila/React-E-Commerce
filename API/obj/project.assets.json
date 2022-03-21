@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -66,7 +66,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.3"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/net6.0/_._": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -1331,11 +1331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
+      "projectPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
       "packagesPath": "C:\\Users\\nano8\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\obj\\",
+      "outputPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nano8\\AppData\\Roaming\\NuGet\\NuGet.Config"
