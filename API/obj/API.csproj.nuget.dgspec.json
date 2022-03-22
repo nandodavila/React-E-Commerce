@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj": {}
+    "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj": {
+    "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
+        "projectPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\API.csproj",
         "packagesPath": "C:\\Users\\nano8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\obj\\",
+        "outputPath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nano8\\AppData\\Roaming\\NuGet\\NuGet.Config"
