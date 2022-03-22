@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BfFph2FwWXINh2Q910vPv48RClquNiFqpwaALB2Aqr9u7eOAPmGy9+WW5w3zHsClzt82COtRMQIl1h4mAIT3YQ==",
+  "dgSpecHash": "2Kbv+8lF+SxJWZCCJvTd5CZlYPamykUqNrKz3rif2+1Jz5PjGRn9czU1DyZvDC3ToQxoew7x+NpEJW81HwyvhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\nano8\\Documents\\projects\\React-E-Commerce\\React-E-Commerce\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nano8\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nano8\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
