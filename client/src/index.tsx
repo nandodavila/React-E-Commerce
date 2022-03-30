@@ -4,10 +4,10 @@ import './app/layout/index.css';
 import App from './app/layout/App';
 import reportWebVitals from './reportWebVitals';
 import { Router } from 'react-router-dom';
-import { createBrowserHistory } from 'history';
+// tslint:disable-next-line 
 
 
-export const history = createBrowserHistory();
+export const history = require('history').createBrowserHistory()
 
 ReactDOM.render(
   <React.StrictMode>
