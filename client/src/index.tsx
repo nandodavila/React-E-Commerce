@@ -4,6 +4,7 @@ import './app/layout/index.css';
 import App from './app/layout/App';
 import reportWebVitals from './reportWebVitals';
 import { Router } from 'react-router-dom';
+import { StoreProvider } from './app/context/StoreContext';
 // tslint:disable-next-line 
 
 
@@ -12,7 +13,9 @@ export const history = require('history').createBrowserHistory()
 ReactDOM.render(
   <React.StrictMode>
     <Router history={history}>
-      <App />
+      <StoreProvider>
+        <App />
+      </StoreProvider>
     </Router>
   </React.StrictMode>,
   document.getElementById('root')
