@@ -1,11 +1,10 @@
 import { LoadingButton } from "@mui/lab";
-import { ListItem, ListItemAvatar, Avatar, ListItemText, Button, Card, CardActions, CardContent, CardMedia, Typography, CardHeader } from "@mui/material";
+import { Avatar, Button, Card, CardActions, CardContent, CardMedia, Typography, CardHeader } from "@mui/material";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import agent from "../../app/api/agent";
 import { useStoreContext } from "../../app/context/StoreContext";
 import { Product } from "../../app/models/products";
-import ProductList from "./ProductList";
 
 interface Props {
    product: Product; 

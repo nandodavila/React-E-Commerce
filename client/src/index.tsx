@@ -5,7 +5,10 @@ import App from './app/layout/App';
 import reportWebVitals from './reportWebVitals';
 import { Router } from 'react-router-dom';
 import { StoreProvider } from './app/context/StoreContext';
+import { Provider } from 'react-redux';
+import { store } from './app/store/configureStore';
 // tslint:disable-next-line 
+
 
 
 export const history = require('history').createBrowserHistory()
@@ -14,7 +17,9 @@ ReactDOM.render(
   <React.StrictMode>
     <Router history={history}>
       <StoreProvider>
-        <App />
+        <Provider store={store}>
+          <App />
+        </Provider>
       </StoreProvider>
     </Router>
   </React.StrictMode>,
